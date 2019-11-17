@@ -1,1 +1,2 @@
-Second file file 2 created on master using gui this line added by master
+Second file file 2 created on master using Graphical User Interface this line added by master
+  I added second line - ncustomer to file2 on my master
