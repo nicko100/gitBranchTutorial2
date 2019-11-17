@@ -1,1 +1,2 @@
 File 1 created on master
+ This line added in branch 1
